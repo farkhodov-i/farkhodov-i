@@ -1,12 +1,12 @@
-### Привет, я Ислам 👋
+### Hey, I'm Islom 👋
 
-💻 MERN Stack разработчик | 🧠 AI/ML энтузиаст | 🛠 Full-stack projects | 🎨 Немного дизайнер  
-📍 Студент [21-school](https://21-school.ru/)  
-🏗 Работаю с: **Node.js / NestJS / React / MongoDB / Telegram Bots / LLMs / Huggingface**
+💻 MERN Stack Developer | 🤖 AI/ML Enthusiast | 🛠 Full-stack Projects | 🎨 Sometimes into Design  
+🎓 Student at [21-school](https://21-school.ru)  
+🔧 Working with: **Node.js / NestJS / React / MongoDB / Telegram Bots / LLMs / Huggingface**
 
 ---
 
-#### 🧰 Технологии, которые я юзаю:
+#### 🧰 Tech Stack I use:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js)
@@ -18,20 +18,20 @@
 
 ---
 
-#### ⚡ Немного фактов:
-- 🚀 Люблю писать ботов, экспериментировать с AI, прокачивать стек
-- 🧠 Постоянно учусь и копаюсь в коде
-- 📸 Иногда редактирую фотки и заморачиваюсь с дизайном
-- 🧵 Открыт к коллаборациям и интересным pet-проектам
+#### ⚡ Quick Facts:
+- 🚀 Love building bots, playing with LLMs, and leveling up my stack
+- 🧠 Constantly learning & experimenting
+- 🎨 Sometimes I dive into photo editing and UI design
+- 🤝 Always open for collabs or cool side projects
 
 ---
 
-#### 📈 Моя GitHub статистика:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islomfarkhodov&show_icons=true&theme=tokyonight&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islomfarkhodov&layout=compact&theme=tokyonight)
+#### 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username-i=farkhodov-i&show_icons=true&theme=tokyonight&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkhodov-i&layout=compact&theme=tokyonight)
 
 ---
 
-#### 📫 Контакты:
+#### 📫 Let's connect:
 - Telegram: [@islom_dev](https://t.me/islom_dev)
 - Email: `your_email@example.com`
