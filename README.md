@@ -34,5 +34,5 @@
 ---
 
 #### 📫 Let's connect:
-- Telegram: [@islom_dev](https://t.me/islom_dev)
-- Email: `your_email@example.com`
+- Email: `farkhodovislom2006@gmail.com`
+- Main github `[@FarkhodovIslom](https://github.com/FarkhodovIslom)`
