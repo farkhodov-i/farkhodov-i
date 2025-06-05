@@ -27,7 +27,7 @@
 ---
 
 #### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username-i=farkhodov-i&show_icons=true&theme=tokyonight&hide=issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farkhodov-i&show_icons=true&theme=tokyonight&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkhodov-i&layout=compact&theme=tokyonight)
 
 ---
