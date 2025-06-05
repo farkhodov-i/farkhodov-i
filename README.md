@@ -35,4 +35,4 @@
 
 #### 📫 Let's connect:
 - Email: `farkhodovislom2006@gmail.com`
-- Main github: `[@FarkhodovIslom](https://github.com/FarkhodovIslom)`
+- Main github: [@FarkhodovIslom](https://github.com/FarkhodovIslom)
