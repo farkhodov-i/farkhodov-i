@@ -1,7 +1,6 @@
 ### Hey, I'm Islom 👋
 
 💻 MERN Stack Developer | 🤖 AI/ML Enthusiast | 🛠 Full-stack Projects | 🎨 Sometimes into Design  
-🎓 Student at [21-school](https://21-school.ru)  
 🔧 Working with: **Node.js / NestJS / React / MongoDB / Telegram Bots / LLMs / Huggingface**
 
 ---
@@ -28,10 +27,8 @@
 
 #### 📈 GitHub Stats:
 
--Stats-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farkhodov-i&show_icons=true&theme=tokyonight&hide=issues)
 
--Top languages-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkhodov-i&layout=compact&theme=tokyonight)
 
 ---
